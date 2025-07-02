@@ -1,0 +1,12 @@
+/* src/styles/globals.css */
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to bottom right, #0f0c29, #302b63, #24243e);
+  color: white;
+  font-family: 'Caveat', cursive, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
